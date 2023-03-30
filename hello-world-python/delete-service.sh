@@ -1,0 +1,1 @@
+kubectl delete --filename service.yaml

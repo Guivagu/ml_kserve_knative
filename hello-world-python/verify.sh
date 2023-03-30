@@ -1,0 +1,1 @@
+kubectl get ksvc helloworld-python  --output=custom-columns=NAME:.metadata.name,URL:.status.url
